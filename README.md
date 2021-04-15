@@ -3,7 +3,7 @@ I update the papers I read and the codes I implement here.
 
 
 ### Value Based
-1. Playing Atari with Deep Reinforcement Learning, 2013. Algorithm: `DQN` **[[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) [[code]]()**
+1. Playing Atari with Deep Reinforcement Learning, 2013. Algorithm: `DQN` **[[paper_annot]](../DQN_annot.pdf) [[code]](../DQN.ipynb)**
 - Human-level control through deep reinforcement learning, 2015. Algorithm: `DQN` **[[paper]](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
 2. Multiagent Cooperation and Competition with Deep Reinforcement Learning **[[paper]](https://arxiv.org/pdf/1511.08779.pdf)
 3. Deep Recurrent Q-Learning for Partially Observable MDPs, Hausknecht and Stone, 2015. Algorithm: `Deep Recurrent Q-Learning(DRQN)` **[[paper]](https://arxiv.org/abs/1507.06527)
