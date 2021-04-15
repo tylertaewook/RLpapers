@@ -1,6 +1,6 @@
 # RLpapers
 
-This repo lists all the books, papers, and code I used for my own RL journey.
+This repo lists all the books, papers, and codes I used for my own RL journey.
 I will constantly update my progress with my own annotated papers [paper_annot] and code implemented [code] as I continue.
 As I'm studying, I will also work on a [RL Jargons List](https://docs.google.com/spreadsheets/d/1TtQPn9n78hDxVIOh44XMBY4sJA3ST4iV2b_Qbw4r5cM/edit#gid=0) to provide a quick place to look up unfamiliar jargons.
 
