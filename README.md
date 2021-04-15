@@ -2,25 +2,25 @@
 I update the papers I read and the codes I implement here.
 
 First and foremost, the basics:
-- Richard Sutton's [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html) 🚧 2021.04.13-
-- David Silver's [RL Course](https://youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) 🚧 2021.04.13-
+- Richard Sutton's [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html) 🚧 *2021.04.13-*
+- David Silver's [RL Course](https://youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) 🚧 *2021.04.13-*
 
 ### Value Based
 1. Playing Atari with Deep Reinforcement Learning, 2013. Algorithm: `DQN` **[[paper_annot]](../master/DQN_annot.pdf) [[code]](../master/DQN.ipynb)** ✅ *2021.04.15*
 - Human-level control through deep reinforcement learning, 2015. Algorithm: `DQN` **[[paper]](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)**
 2. Multiagent Cooperation and Competition with Deep Reinforcement Learning **[[paper]](https://arxiv.org/pdf/1511.08779.pdf)** ✅ *2021.04.15*
-3. Deep Recurrent Q-Learning for Partially Observable MDPs, Hausknecht and Stone, 2015. Algorithm: `Deep Recurrent Q-Learning(DRQN)` **[[paper]](https://arxiv.org/abs/1507.06527)
-- Prioritized Experience Replay, Schaul et al, 2015. Algorithm: `Prioritized Experience Replay (PER)` **[[paper]](https://arxiv.org/abs/1511.05952) [[code]]()**
-- Dueling **[[paper]](https://arxiv.org/pdf/1511.06581.pdf) [[code]]()**
-- Distributional **[[paper]](https://arxiv.org/pdf/1707.06887.pdf) [[code]]()**
-- Rainbow **[[paper]](https://arxiv.org/abs/1710.02298) [[code]]()**
-- Quantile Regression **[[paper]](https://arxiv.org/abs/1710.10044) [[code]]()**
+3. Deep Recurrent Q-Learning for Partially Observable MDPs, Hausknecht and Stone, 2015. Algorithm: `Deep Recurrent Q-Learning(DRQN)` **[[paper]](https://arxiv.org/abs/1507.06527)**
+- Prioritized Experience Replay, Schaul et al, 2015. Algorithm: `Prioritized Experience Replay (PER)` **[[paper]](https://arxiv.org/abs/1511.05952)**
+- Dueling **[[paper]](https://arxiv.org/pdf/1511.06581.pdf)**
+- Distributional **[[paper]](https://arxiv.org/pdf/1707.06887.pdf)**
+- Rainbow **[[paper]](https://arxiv.org/abs/1710.02298)**
+- Quantile Regression **[[paper]](https://arxiv.org/abs/1710.10044)**
 
 ### DPG
-- Deterministic Policy Gradient Algorithms `DPG` **[[paper]](http://proceedings.mlr.press/v32/silver14.pdf) [[code]]()**
-6. Continuous Control With Deep Reinforcement Learning, Lillicrap et al, 2015. Algorithm: `DDPG` **[[paper]](https://arxiv.org/abs/1509.02971) [[code]]()**
-7. Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, Lowe et al. 2017. Algorithm: `MADDPG` **[[paper]](https://arxiv.org/abs/1706.02275) [[code]]()**
-- Addressing Function Approximation Error in Actor-Critic Methods **[[paper]](https://arxiv.org/pdf/1802.09477.pdf) [[code]]()**
+- Deterministic Policy Gradient Algorithms `DPG` **[[paper]](http://proceedings.mlr.press/v32/silver14.pdf)**
+6. Continuous Control With Deep Reinforcement Learning, Lillicrap et al, 2015. Algorithm: `DDPG` **[[paper]](https://arxiv.org/abs/1509.02971)**
+7. Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, Lowe et al. 2017. Algorithm: `MADDPG` **[[paper]](https://arxiv.org/abs/1706.02275)**
+- Addressing Function Approximation Error in Actor-Critic Methods **[[paper]](https://arxiv.org/pdf/1802.09477.pdf)**
 
 ### Policy Gradient
 8. Trust Region Policy Optimization, Schulman et al, 2015. Algorithm: `TRPO`
@@ -42,8 +42,8 @@ First and foremost, the basics:
 - Asynchronous Methods for Deep Reinforcement Learning **[[paper]](https://arxiv.org/pdf/1602.01783.pdf) [[code]]()**
 
 ### SAC
-- Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, 2018 **[[paper]](https://arxiv.org/abs/1801.01290 ) [[code]]()**
-- Soft Actor-Critic Algorithms and Applications, 2019 **[[paper]](https://arxiv.org/abs/1801.01290 ) [[code]]()**
+- Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, 2018 **[[paper]](https://arxiv.org/abs/1801.01290)**
+- Soft Actor-Critic Algorithms and Applications, 2019 **[[paper]](https://arxiv.org/abs/1801.01290)**
  
 ### Survey
 - Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms **[[paper]](https://arxiv.org/pdf/1911.10635.pdf)**
