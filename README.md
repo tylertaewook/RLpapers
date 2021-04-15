@@ -1,6 +1,9 @@
 # RLpapers
 I update the papers I read and the codes I implement here.
 
+First and foremost, the basics:
+- Richard Sutton's [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html) 🚧 2021.04.13-
+- David Silver's [RL Course](https://youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) 🚧 2021.04.13-
 
 ### Value Based
 1. Playing Atari with Deep Reinforcement Learning, 2013. Algorithm: `DQN` **[[paper_annot]](../master/DQN_annot.pdf) [[code]](../master/DQN.ipynb)** ✅ *2021.04.15*
