@@ -11,7 +11,7 @@ The papers that are numbered below are part of our curriculum at [DIYA](https://
 - David Silver's [RL Course](https://youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) 🚧 *2021.04.13-*
 
 ### Value Based
-1. Playing Atari with Deep Reinforcement Learning, 2013. Algorithm: `DQN` **[[paper_annot]](../master/DQN_annot.pdf) [[code]](../master/DQN.ipynb)** ✅ *2021.04.15*
+1. Playing Atari with Deep Reinforcement Learning, 2013. Algorithm: `DQN` **[[paper_annot]](https://github.com/tylertaewook/RLpapers/blob/main/DQN_annot.pdf) [[code]](../master/DQN.ipynb)** ✅ *2021.04.15*
 - Human-level control through deep reinforcement learning, 2015. Algorithm: `DQN` **[[paper]](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)**
 2. Multiagent Cooperation and Competition with Deep Reinforcement Learning **[[paper]](https://arxiv.org/pdf/1511.08779.pdf)** ✅ *2021.04.15*
 3. Deep Recurrent Q-Learning for Partially Observable MDPs, Hausknecht and Stone, 2015. Algorithm: `Deep Recurrent Q-Learning(DRQN)` **[[paper]](https://arxiv.org/abs/1507.06527)** 🚧
