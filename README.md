@@ -14,7 +14,7 @@ The papers that are numbered below are part of our curriculum at [DIYA](https://
 1. Playing Atari with Deep Reinforcement Learning, 2013. Algorithm: `DQN` **[[paper_annot]](https://github.com/tylertaewook/RLpapers/blob/main/DQN_annot.pdf) [[code]](https://github.com/tylertaewook/RLpapers/blob/main/DQN.ipynb)** ✅ *2021.04.15*
 - Human-level control through deep reinforcement learning, 2015. Algorithm: `DQN` **[[paper]](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)**
 2. Multiagent Cooperation and Competition with Deep Reinforcement Learning **[[paper]](https://arxiv.org/pdf/1511.08779.pdf)** ✅ *2021.04.15*
-3. Deep Recurrent Q-Learning for Partially Observable MDPs, Hausknecht and Stone, 2015. Algorithm: `Deep Recurrent Q-Learning(DRQN)` **[[paper]](https://arxiv.org/abs/1507.06527)** 🚧
+3. Deep Recurrent Q-Learning for Partially Observable MDPs, Hausknecht and Stone, 2015. Algorithm: `Deep Recurrent Q-Learning(DRQN)` **[[paper_annot]](https://github.com/tylertaewook/RLpapers/blob/main/DRQN_annot.pdf)** ✅
 - Prioritized Experience Replay, Schaul et al, 2015. Algorithm: `Prioritized Experience Replay (PER)` **[[paper]](https://arxiv.org/abs/1511.05952)**
 - Dueling **[[paper]](https://arxiv.org/pdf/1511.06581.pdf)**
 - Distributional **[[paper]](https://arxiv.org/pdf/1707.06887.pdf)**
@@ -22,8 +22,8 @@ The papers that are numbered below are part of our curriculum at [DIYA](https://
 - Quantile Regression **[[paper]](https://arxiv.org/abs/1710.10044)**
 
 ### DPG
-- Deterministic Policy Gradient Algorithms `DPG` **[[paper]](http://proceedings.mlr.press/v32/silver14.pdf)** 🚧
-4. Continuous Control With Deep Reinforcement Learning, Lillicrap et al, 2015. Algorithm: `DDPG` **[[paper]](https://arxiv.org/abs/1509.02971)** 🚧
+- Deterministic Policy Gradient Algorithms `DPG` **[[paper]](http://proceedings.mlr.press/v32/silver14.pdf)** 
+4. Continuous Control With Deep Reinforcement Learning, Lillicrap et al, 2015. Algorithm: `DDPG` **[[paper]](https://github.com/tylertaewook/RLpapers/blob/main/DDPG_annot.pdf)** ✅
 5. Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, Lowe et al. 2017. Algorithm: `MADDPG` **[[paper]](https://arxiv.org/abs/1706.02275)**
 - Addressing Function Approximation Error in Actor-Critic Methods **[[paper]](https://arxiv.org/pdf/1802.09477.pdf)**
 
