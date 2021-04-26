@@ -25,10 +25,10 @@ The papers that are numbered below are part of our curriculum at [DIYA](https://
 - Deterministic Policy Gradient Algorithms `DPG` **[[paper]](http://proceedings.mlr.press/v32/silver14.pdf)** 
 4. Continuous Control With Deep Reinforcement Learning, Lillicrap et al, 2015. Algorithm: `DDPG` **[[paper]](https://github.com/tylertaewook/RLpapers/blob/main/DDPG_annot.pdf)** ✅ *2021.04.18*
 5. Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments, Lowe et al. 2017. Algorithm: `MADDPG` **[[paper]](https://arxiv.org/abs/1706.02275)**
-- Addressing Function Approximation Error in Actor-Critic Methods **[[paper]](https://arxiv.org/pdf/1802.09477.pdf)**
+- Addressing Function Approximation Error in Actor-Critic Methods **[[paper]](https://arxiv.org/pdf/1802.09477.pdf)** ✅ *2021.04.25*
 
 ### Policy Gradient
-6. Trust Region Policy Optimization, Schulman et al, 2015. Algorithm: `TRPO`
+6. Trust Region Policy Optimization, Schulman et al, 2015. Algorithm: `TRPO` ✅ *2021.04.25*
 7. High-Dimensional Continuous Control Using Generalized Advantage Estimation, Schulman et al, 2015. Algorithm: `GAE`
 8. Proximal Policy Optimization Algorithms, Schulman et al, 2017. Algorithm: `PPO-Clip, PPO-Penalty`
 9. Emergence complexity via Muti-agent competition, Bansal et al, 2017.
