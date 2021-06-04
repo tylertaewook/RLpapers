@@ -50,7 +50,8 @@ The papers that are numbered below are part of our curriculum at [DIYA](https://
 - Soft Actor-Critic Algorithms and Applications, 2019 **[[paper]](https://arxiv.org/abs/1801.01290)**
  
 ### Survey
-- Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms **[[paper]](https://arxiv.org/pdf/1911.10635.pdf)**
+- Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms **[[paper]](https://arxiv.org/pdf/1911.10635.pdf)** ✅ *2021.06.06*
+
 - A Survey and Critique of Multiagent Deep Reinforcement Learning **[[paper]](https://arxiv.org/pdf/1810.05587.pdf)**
 
 
