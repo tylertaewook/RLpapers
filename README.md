@@ -6,6 +6,8 @@ As I'm studying, I will also work on a [RL Jargons List](https://docs.google.com
 
 The papers that are numbered below are part of our curriculum at [DIYA](https://blog.diyaml.com/)'s MultiAgentRL team, where our goal is to read two papers and review them together every week. The other papers are composed to supplement my understandings whenever I have extra time.
 
+### [DIYA MARL TEAM PPT](https://github.com/tylertaewook/RLpapers/blob/main/diyamarl.pdf)
+
 ### First and foremost, the basics:
 - Richard Sutton's [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html) 🚧 *2021.04.13-*
 - David Silver's [RL Course](https://youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) 🚧 *2021.04.13-*
