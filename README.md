@@ -31,17 +31,16 @@ The papers that are numbered below are part of our curriculum at [DIYA](https://
 6. Trust Region Policy Optimization, Schulman et al, 2015. Algorithm: `TRPO` **[[paper_annot]](https://github.com/tylertaewook/RLpapers/blob/main/TRPO_annot.pdf)** ✅ *2021.04.25* (was pretty challenging; likely to review again later)
 7. High-Dimensional Continuous Control Using Generalized Advantage Estimation, Schulman et al, 2015. Algorithm: `GAE`
 8. Proximal Policy Optimization Algorithms, Schulman et al, 2017. Algorithm: `PPO-Clip, PPO-Penalty` **[[paper_annot]](https://github.com/tylertaewook/RLpapers/blob/main/PPO_annot.pdf)** ✅ *2021.05.01*
-9. Emergence complexity via Muti-agent competition, Bansal et al, 2017.
-10. Adversarial Policies: Attacking Deep Reinforcement Learning https://arxiv.org/pdf/1905.10615.pdf
+9. Emergence complexity via Muti-agent competition, Bansal et al, 2017. **[[paper]](https://arxiv.org/abs/1710.03748)** ✅ *2021.05.09*
+10. Adversarial Policies: Attacking Deep Reinforcement Learning **[[paper]](https://arxiv.org/pdf/1905.10615.pdf)** ✅ *2021.05.09*
 
 ### MARL
-11. Counterfactual Multi-Agent Policy Gradient, Foerster et al. Algorithm: `COMA`
-12. Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning, Rashid et al. 2018. Algorithm: `QMIX`
-13. Autocurricula and the Emergence of Innovation from Social Interaction: A Manifesto for Multi-Agent Intelligence Research
-14. Deep Reinforcement Learning from Self-Play in Imperfect-Information Games NFSP (Neural Fictitious Self-Play)
-15. Jaderberg et al. Human-level performance in 3D multiplayer games with population based reinforcement learning https://science.sciencemag.org/content/sci/364/6443/859.full.pdf
-16. ASYMMETRIC SELF-PLAY FOR AUTOMATIC GOAL DISCOVERY IN ROBOTIC MANIPULATION Asymmetric self-play & HRL
-17. A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning PSRO/DCH
+11. Counterfactual Multi-Agent Policy Gradient, Foerster et al. Algorithm: `COMA` ✅ *2021.05.16*
+12. Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning, Rashid et al. 2018. Algorithm: `QMIX` ✅ *2021.05.16*
+13. Deep Reinforcement Learning from Self-Play in Imperfect-Information Games NFSP (Neural Fictitious Self-Play)
+14. Jaderberg et al. Human-level performance in 3D multiplayer games with population based reinforcement learning  **[[paper]](https://science.sciencemag.org/content/sci/364/6443/859.full.pdf)**
+15. ASYMMETRIC SELF-PLAY FOR AUTOMATIC GOAL DISCOVERY IN ROBOTIC MANIPULATION Asymmetric self-play & HRL. ✅ *2021.05.30*
+16. A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning `PSRO/DCH` ✅ *2021.05.30*
 
 ### A2C/A3C
 - Asynchronous Methods for Deep Reinforcement Learning **[[paper]](https://arxiv.org/pdf/1602.01783.pdf) [[code]]()**
@@ -51,7 +50,8 @@ The papers that are numbered below are part of our curriculum at [DIYA](https://
 - Soft Actor-Critic Algorithms and Applications, 2019 **[[paper]](https://arxiv.org/abs/1801.01290)**
  
 ### Survey
-- Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms **[[paper]](https://arxiv.org/pdf/1911.10635.pdf)**
+- Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms **[[paper]](https://arxiv.org/pdf/1911.10635.pdf)** ✅ *2021.06.06*
+
 - A Survey and Critique of Multiagent Deep Reinforcement Learning **[[paper]](https://arxiv.org/pdf/1810.05587.pdf)**
 
 
